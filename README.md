@@ -1,17 +1,7 @@
-# Carlos Orue
+### Hi there 👋
 
+I'm Carlos Orue, a Full-Stack Developer from Chicago, USA
 
+### Contact 📫
 
-**orue/orue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<!-- 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...[orue.io](https://orue.io)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
- -->
+You can reach me via email at [carlos@orue.dev](mailto:carlos@orue.dev)
