@@ -17,4 +17,4 @@ Email: carlos@orue.dev
 - 💻 *Programming Languages*: Python, JavaScript
 - 🛠️ *Tools & Technologies*: 
 - 🏢 *Professional Experience*:
-  - *Teach2Give*: 
+ 
