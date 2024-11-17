@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there, I'm Carlos Orue
 
-I'm Carlos Orue, a Full-Stack Developer from Chicago, USA
+Welcome to my GitHub profile! I am a Full Stack Developer from Chicago, USA.
 
 ### Contact 📫
 
