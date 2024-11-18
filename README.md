@@ -1,6 +1,10 @@
-# Hi there, I'm Carlos Orue
+### Hey, I'm Carlos Orue. 👋🏼
+---
+Welcome to my GitHub profile!
 
-Welcome to my GitHub profile! I am a Full Stack Developer from Chicago, USA.
+I'm a software engineer and cloud architect from from Chicago, USA. 🇺🇸
+
+---
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -36,9 +40,10 @@ Welcome to my GitHub profile! I am a Full Stack Developer from Chicago, USA.
 
 
 ---
-## Contact Me
+You can find me on:
 
-Email: carlos@orue.dev
+* [My website: orue.dev](https://orue.dev/)
+* [My Email: carlos@orue.dev](mailto:carlos@orue.dev)
 
 <!-- ## About Me
 
