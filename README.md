@@ -9,6 +9,7 @@
 - 🚀 Passionate about building scalable cloud solutions and modern web applications.
 - 🛠️ Experienced in Python, Flask, Vue.js and React.
 - 🌱 Currently learning more about Go language.
+-  My LinkedIn Profile: [carlosorue](https://www.linkedin.com/in/carlosorue/)
 - 📫 How to reach me: [carlos@orue.dev](mailto:carlos@orue.dev)
 
 ---
