@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile!
 
-👋 Hi, I'm **Carlos**\
-💻 Freelancer, Software Engineer & Full Stack Developer\
+👋 Hi, I'm **Carlos Orue**\
+💻 Senior Full-Stack Engineer | Cloud Infrastructure & AI-Driven Automation | Scalable Web Platforms
 🌍 From **Cuba** 🇨🇺, living in **Chicago, USA** 🇺🇸
 
 ---
