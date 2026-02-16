@@ -26,12 +26,12 @@ The public repositories here demonstrate architecture patterns, deployment strat
 
 ## 🛠 Tech Stack
 
-**Languages:** Python · Go · JavaScript / TypeScript · SQL
-**Frontend:** React · Vue
-**Backend:** Node.js · FastAPI · Flask · Express
-**Cloud & DevOps:** AWS · Azure · GCP · Docker · Kubernetes · CI/CD
-**Data & AI:** PostgreSQL · MongoDB · DynamoDB · TensorFlow · PyTorch · LangChain
-**Standards:** FHIR · HL7
+- **Languages:** Python · Go · JavaScript / TypeScript · SQL
+- **Frontend:** React · Vue
+- **Backend:** Node.js · FastAPI · Flask · Express
+- **Cloud & DevOps:** AWS · Azure · GCP · Docker · Kubernetes · CI/CD
+- **Data & AI:** PostgreSQL · MongoDB · DynamoDB · TensorFlow · PyTorch · LangChain
+- **Standards:** FHIR · HL7
 
 ---
 
