@@ -51,14 +51,7 @@ Most of my professional work lives in private repositories across client and com
 →  Design for observability and resilience
 ```
 
-<br/>
-
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=orue&show_icons=true&theme=github_dark&hide_border=true&count_private=true&ring_color=58a6ff&icon_color=58a6ff" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=orue&theme=github-dark-blue&hide_border=true&ring=58a6ff" height="170" />
-</p>
 
 <p align="center">
   <a href="https://orue.dev"><strong>orue.dev</strong></a>
