@@ -1,50 +1,65 @@
-# Carlos Orue
+<h1 align="center">Carlos Orue</h1>
 
-Senior Full-Stack Software Engineer specializing in cloud-native platforms, scalable APIs, and AI-driven systems.
+<p align="center">
+  <strong>Senior Full-Stack Software Engineer</strong><br/>
+  Cloud-Native Platforms · Scalable APIs · AI-Driven Systems<br/>
+  M.S. Computer Science · 20+ Years in Production
+</p>
 
-I design and build production-ready applications across backend, frontend, and cloud infrastructure with a focus on reliability, scalability, and automation.
+<p align="center">
+  <a href="https://orue.dev">orue.dev</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/carlosorue">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:carlos@orue.dev">carlos@orue.dev</a>
+</p>
+
+<br/>
+
+I architect cloud-native platforms, high-throughput APIs, and AI-powered systems — from prototype to production at scale. My work spans backend, frontend, and infrastructure with a focus on reliability, scalability, and automation.
+
+Most of my professional work lives in private repositories across client and company organizations. Public repos here demonstrate architecture patterns, deployment strategies, and engineering practices I apply in production.
+
+<br/>
+
+### What I Do
+
+| | |
+|---|---|
+| **Cloud-Native Architecture** | Designing resilient, multi-cloud platforms across AWS, Azure, and GCP |
+| **APIs & Microservices** | High-throughput REST services with event-driven and distributed patterns |
+| **AI & Automation** | Intelligent pipelines, ML models, and LLM-powered workflows |
+| **Full-Stack Delivery** | End-to-end — from UI components to infrastructure as code |
+
+<br/>
+
+### Tech Stack
+
+| | |
+|---|---|
+| **Languages** | Python · Go · TypeScript · JavaScript · SQL |
+| **Frontend** | React · Vue |
+| **Backend** | Node.js · FastAPI · Flask · Express |
+| **Cloud & DevOps** | AWS · Azure · GCP · Docker · Kubernetes · CI/CD |
+| **Data & AI** | PostgreSQL · MongoDB · DynamoDB · TensorFlow · PyTorch · LangChain |
+| **Standards** | FHIR · HL7 |
+
+<br/>
+
+### How I Work
+
+```
+→  Build scalable systems, not quick prototypes
+→  Prefer clean architecture and maintainable code
+→  Automate deployment and testing
+→  Design for observability and resilience
+```
+
+<br/>
 
 ---
 
-## 🚀 Core Focus
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=orue&show_icons=true&theme=github_dark&hide_border=true&count_private=true&ring_color=58a6ff&icon_color=58a6ff" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=orue&theme=github-dark-blue&hide_border=true&ring=58a6ff" height="170" />
+</p>
 
-- Cloud-Native Architecture (AWS, Azure, GCP)
-- Scalable REST APIs & Microservices
-- Distributed Systems & Event-Driven Design
-- AI-Driven Automation & Data Pipelines
-- Full-Stack Web Applications
-
----
-
-## 🔒 Production Work
-
-Most of my professional work lives in private repositories across client and company organizations due to confidentiality and IP agreements.
-
-The public repositories here demonstrate architecture patterns, deployment strategies, and engineering practices I use in production systems.
-
----
-
-## 🛠 Tech Stack
-
-- **Languages:** Python · Go · JavaScript / TypeScript · SQL
-- **Frontend:** React · Vue
-- **Backend:** Node.js · FastAPI · Flask · Express
-- **Cloud & DevOps:** AWS · Azure · GCP · Docker · Kubernetes · CI/CD
-- **Data & AI:** PostgreSQL · MongoDB · DynamoDB · TensorFlow · PyTorch · LangChain
-- **Standards:** FHIR · HL7
-
----
-
-## 🧠 Engineering Principles
-
-- Build scalable systems, not quick prototypes
-- Prefer clean architecture and maintainable code
-- Automate deployment and testing
-- Design for observability and resilience
-
----
-
-## 📫 Connect
-
-- LinkedIn: https://linkedin.com/in/carlosorue
-- Website: https://orue.dev
+<p align="center">
+  <a href="https://orue.dev"><strong>orue.dev</strong></a>
+</p>
