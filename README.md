@@ -49,3 +49,7 @@ The public projects here are representative implementations that demonstrate my 
 ```
 
 ---
+
+## Connect
+- Website: https://orue.dev
+- LinkedIn: https://linkedin.com/in/carlosorue
