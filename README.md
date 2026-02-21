@@ -9,17 +9,6 @@ I deliver end-to-end: AI-enabled backend services (Python), modern web UIs (Reac
 
 <br/>
 
-### What I Do
-
-|                               |                                                                          |
-| ----------------------------- | ------------------------------------------------------------------------ |
-| **Cloud-Native Architecture** | Designing resilient, multi-cloud platforms across AWS, Azure, and GCP    |
-| **APIs & Microservices**      | High-throughput REST services with event-driven and distributed patterns |
-| **AI & Automation**           | Intelligent pipelines, ML models, and LLM-powered workflows              |
-| **Full-Stack Delivery**       | End-to-end — from UI components to infrastructure as code                |
-
-<br/>
-
 ## Production work & private repositories
 Most of my professional work lives in private repositories across client and company organizations due to confidentiality and IP agreements.
 The public projects here are representative implementations that demonstrate my approach to applied ML, full-stack engineering, and production delivery.
