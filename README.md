@@ -1,20 +1,11 @@
-<h1 align="center">Carlos Orue</h1>
+# Carlos Orue
 
-<p align="center">
-  <strong>Senior Full-Stack Software Engineer</strong><br/>
-  Cloud-Native Platforms · Scalable APIs · AI-Driven Systems<br/>
-  M.S. Computer Science · 20+ Years in Production
-</p>
+Senior AI & Full-Stack Software Engineer focused on **Applied ML** and **Analytics Platforms** — building intelligent systems, model-integrated APIs, and scalable web applications.
 
-<p align="center">
-  <a href="https://orue.dev">orue.dev</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/carlosorue">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:carlos@orue.dev">carlos@orue.dev</a>
-</p>
+I deliver end-to-end: AI-enabled backend services (Python), modern web UIs (React/Vue), and production-ready deployment practices (cloud as the delivery layer).
 
-<br/>
+---
 
-I architect cloud-native platforms, high-throughput APIs, and AI-powered systems — from prototype to production at scale. My work spans backend, frontend, and infrastructure with a focus on reliability, scalability, and automation.
-
-Most of my professional work lives in private repositories across client and company organizations. Public repos here demonstrate architecture patterns, deployment strategies, and engineering practices I apply in production.
 
 <br/>
 
@@ -28,6 +19,12 @@ Most of my professional work lives in private repositories across client and com
 | **Full-Stack Delivery**       | End-to-end — from UI components to infrastructure as code                |
 
 <br/>
+
+## Production work & private repositories
+Most of my professional work lives in private repositories across client and company organizations due to confidentiality and IP agreements.
+The public projects here are representative implementations that demonstrate my approach to applied ML, full-stack engineering, and production delivery.
+
+---
 
 ### Tech Stack
 
